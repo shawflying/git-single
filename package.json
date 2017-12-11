@@ -1,0 +1,27 @@
+{
+  "name": "git-single",
+  "version": "0.0.1",
+  "description": "git single file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawflying/git-single.git"
+  },
+  "keywords": [
+    "git",
+    "single",
+    "file"
+  ],
+  "author": "yanxxit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shawflying/git-single/issues"
+  },
+  "homepage": "https://github.com/shawflying/git-single#readme",
+  "dependencies": {
+    "del": "^3.0.0"
+  }
+}
